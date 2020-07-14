@@ -33,8 +33,26 @@ The long term memory storage can store too many things, and you need **practice*
 
 Use *spaced repetition*, which involves repeating what you're trying to retain, but space this repetition out.
 
-Sleeps helps clearing toxic products cumulated during your daytime. Too little sleep over too long of a time can also be associated with all sorts of nasty conditions.
+Plant the seed for you diffuse mode by first doing the focus mode work. If you are going over what you are learning right before you take a nap or going to sleep for the evening you have an increased chance of dreaming about it. You can even set in mind that you want to dream about the material and it seems to improve your chances of dreaming about it still further. Dreaming about what you are studying can substantially enhance your ability to understand.
 
-During sleep your brain tidies up ideas and concepts, erases less important parts of memories and also rehearses some of the tough parts that you need or want to remember to strengthen them. It's also as if the complete deactivation of the conscious you in the prefrontal cortex at the forefront of your brain helps other areas of your brain start talking more easily to one another, allowing them to put together the neural solution to your learning task while you're sleeping.
+Get into interaction and construction with people and industry or labs. Get practice and communication.
 
-Of course, you must also plant the seed for you diffuse mode by first doing the focus mode work. If you are going over what you are learning right before you take a nap or going to sleep for the evening you have an increased chance of dreaming about it. You can even set in mind that you want to dream about the material and it seems to improve your chances of dreaming about it still further. Dreaming about what you are studying can substantially enhance your ability to understand.
+If the topic and lecture is boring - it is. And try to ask a question etc. to bring up interesting topic, or get away from wasting time on it.
+
+You can't do multiple things at the same time efficiently. (Unless trained to do one thing unconsciously, like breathing.) Save the context and switch between tasks is a way to overcome this. But remember a switching will cost time to recovery and it's better avoided.
+
+Getting surrounded by an active, enriched environment and exercising help your neurons born and survive. (Gym class is essential and helps learning.)
+
+Come up with a solid reason/passion to learn. A good reason to learn language is to embrace that culture.
+
+When learning language, children have a good advantage that they allow themselves to make mistakes and can actually learn faster when overcoming this. Adults shouldn't be afraid to using the language.
+
+To learn a language symmetrically (not only recognize but be able to come up the word and speak), you can use mnemonics rather than always link the word you want to learn with your mother-tongue. Textbook may have a limitation of text-only, it's time to use websites and apps like `memrise.com`. And use `Anki` to manage spaced repetition.
+
+A creativity activity may not be a creativity for the world, because it was worked out before by other people, but is still a creativity for you and is important for your brain in order to pursue other creative problems.
+
+Mind map can help you diffuse you mind and brainstorm about new ideas. You can also use it to recap on what you've just learned.
+
+Memorizing do helps.
+
+A big mistake of beginner writer is they edit while they write. Turn off or use a tower to cover the screen to help you avoid temptation to edit.
