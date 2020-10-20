@@ -87,6 +87,10 @@ Highlighting and underlining must be done very carefully. Otherwise it will only
 
 Tests helps you recall and know how well your understanding is. Don't be afraid when mistakes appears. You learn what flaws to fix from them and it's better to find and fix flaws before real high stakes tests.
 
-Tip. Recalling material when you are outside your usual place of study can also help you strengthen your grasp of the material. When you learn something new you can often take in subliminal cues for the room and the space around you. This can throw you off when taking tests in a different physical environment.
+Tip: Recalling material when you are outside your usual place of study can also help you strengthen your grasp of the material. When you learn something new you can often take in subliminal cues for the room and the space around you. This can throw you off when taking tests in a different physical environment.
+
+### Seeing the Bigger Picture
 
 Acetylcholine（乙酰胆碱）, Dopamine（多巴胺）, Serotonin（血清素）, each affect our action, motivation, and social activity. Good motion is helpful to our learning.
+
+Lady luck favors the one who tries. Just focus on whatever section you're studying. You'll find that once you put that first problem or concept in your mental library, then the second concept will go in a little more easily. And the third more easily still. Not that all of this is a snap, but it does get easier.
